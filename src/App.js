@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 // Web Component
-import './web_components/button.js';
+import './web_components/Button.js';
 
 
 function App() {
